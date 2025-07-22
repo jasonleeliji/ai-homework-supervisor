@@ -1,0 +1,8 @@
+{
+  "name": "AI Homework Supervisor",
+  "description": "An AI-powered application to help children focus on their homework. It uses the camera to monitor for distractions and provides friendly voice reminders. Includes focus reports and customizable settings.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
